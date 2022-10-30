@@ -1,7 +1,7 @@
-#Cracking Caesar's Cipher Starter Code
+# Cracking Caesar's Cipher Starter Code
 This is a place for you to start building your Cracking Caesar's Cipher Project!
 
-##Project Requirements
+## Project Requirements
 Your project should:
 
 - Import the string library to access more characters.
@@ -15,14 +15,14 @@ Your project should:
 - Display all 93 key possibilities in the console window using string formatting.
 - Provide a closing message that shares with the user to search through the 93 possibilities to find their plaintext message.
 
-##Extensions
+## Extensions
 You can extend your project further by:
 
 - Add another usability feature.
 - Add a while loop to repeat the program.
 - Explore other ciphers.
 
-##Attributions
+## Attributions
 *If you used any code, ideas, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own.
 
 This code is inspired by Cracking Codes with Python: An Introduction to Building and Breaking Ciphers by Al Sweigart https://www.nostarch.com/crackingcodes (BSD Licensed)
